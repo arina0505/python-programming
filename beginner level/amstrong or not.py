@@ -8,6 +8,6 @@ if(n<=100000):
     sum=sum+b
     temp=temp//10
 if(n==sum):
-    print('it is palindrome')
+    print('it is armstrong')
 else:
-    print('it is not palindrome')
+    print('it is not armstrong')
